@@ -1,0 +1,44 @@
+ ZAKLAUS PUBLIC CODE LICENSE
+                         Version 1.2, 4 JULY 2015
+						 
+Copyright (c) 2015 <zaklaus@github.io>
+Everyone is permitted to copy and distribute verbatim copies
+of this license document, but changing it is not allowed.
+ 
+Please read this License carefully before downloading this software. By 
+downloading or using this software, you are agreeing to be bound by the terms of
+this License. If you do not or cannot agree to the terms of this License, please
+do not download or use the software.
+ 
+1.		General Definitions. This License applies to any program or other work
+which <zaklaus@github.io> ('ZaKlaus') makes publicly available and which contains a
+notice placed by ZaKlaus identifying such program or work as "Original Code" and
+stating that it is subject to the terms of this Zaklaus Public Code License
+Version 1.2 ( the 'License'). As used in this License:
+ 
+1.1		"Contributor" means any person or entity that creates or contributes to
+the creation of Modifications.
+ 
+1.2		"Covered Code" means the Original Code, Modifications, the combination
+of Original Code and any Modifications, and/or any respective portions thereof.
+ 
+EXHIBIT A.
+ 
+"Copyright (c) 2015 <zaklaus@github.io>. All rights reserved.
+ 
+This file is part of parent project and is released under ZaKlaus Public Code License Version 1.2 (the 'Licence'). You may not use this file
+except in compliance with the License. The rights granted to you under the
+License may not be used to create, or enable the creation or redistribution
+of, unlawful or unlicensed copies of a parent project, or to
+circumvent, violate, or enable the circumvention or violation of, any terms
+of an parent's project software license agreement.
+ 
+You may obtain a copy of the License at
+https://gist.github.com/zaklaus/ffc1accfc93af8ad4e41 and read it before using this file.
+ 
+The Original Code and all software distributed under the License are
+distributed on an 'AS IS' basis, WITHOUT WARRANTIES OR CONDITIONS OF ANY 
+KIND, either express or implied. See the License for the specific language
+governing permissions and limitations under the License.
+Contributors:
+- <zaklaus@github.io>"
